@@ -1,5 +1,13 @@
 ## Hi there 👋
+<!--
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ST-Adrian/ST-Adrian/output/snake.svg" alt="Snake animation" />
+
+###
+-->
 <!--
 **ST-Adrian/ST-Adrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
